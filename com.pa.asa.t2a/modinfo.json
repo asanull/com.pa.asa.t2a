@@ -1,0 +1,40 @@
+{
+    "context": "client",
+    "identifier": "com.pa.asa.t2a",
+    "display_name": "Slammer 40K Selection Cue",
+    "description": "FOR THE EMPEROR",
+    "author": "asa",
+    "version": "0.1.0",
+    "date": "2021-7-30",
+    "build": "115938",
+    "signature": "not yet implemented",
+    "priority": 100,
+    "scenes": {
+        "live_game": [
+            "coui://ui/mods/com.pa.asa.t2a/live_game.js"
+        ]
+    },
+    "enabled": true,
+    "unitList": false,
+    "fileSystem": false,
+    "dependencies": [],
+    "companions": [],
+    "framework": false,
+    "available": true,
+    "titansOnly": false,
+    "classicOnly": false,
+    "classic": true,
+    "titans": true,
+    "conflicts": {},
+
+    "icon": "https://imgur.com/umjp0sp.png",
+    "searchable": [
+        "slammer",
+        "40k",
+        "selection"
+    ],
+    "sort": "audio cue replacement",
+    "authors": [
+        "asa"
+    ]
+}
